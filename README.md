@@ -1,2 +1,4 @@
 # pythoncourse
-Python Course code
+Exemple de Cours de Python
+Ajout d'information
+
